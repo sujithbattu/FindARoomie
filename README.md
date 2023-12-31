@@ -2,12 +2,6 @@
   <img src="misc/images/image.png" alt="Alt text"/>
 </p>
 
-# Team Maverick Team 35
-- Abhishek Chintapalli
-- Abhinav Chary Eeranti
-- Tirdesh Pettugani
-- Sai Krishna Kotla
-
 # Find a Roomie
 
 ## Introduction
